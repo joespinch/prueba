@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perros>
+  <raza nombre="Poodle">
+    <tamano>Pequeño</tamano>
+    <origen>Francia</origen>
+    <descripcion>El Poodle es una raza muy inteligente y juguetona. Se caracteriza por su pelo rizado y su tamaño pequeño.</descripcion>
+  </raza>
+  <raza nombre="Labrador Retriever">
+    <tamano>Grande</tamano>
+    <origen>Canadá</origen>
+    <descripcion>El Labrador Retriever es una raza muy popular debido a su inteligencia y capacidad de aprender rápidamente. Es un perro de tamaño grande y muy amigable.</descripcion>
+  </raza>
+  <raza nombre="Bulldog Inglés">
+    <tamano>Mediano</tamano>
+    <origen>Reino Unido</origen>
+    <descripcion>El Bulldog Inglés es una raza muy leal y protectora. Tiene un tamaño mediano y una cabeza grande y arrugada que lo hace muy reconocible.</descripcion>
+  </raza>
+</perros>

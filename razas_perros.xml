@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perros>
+    <raza nombre="Labrador Retriever">
+        <tamano>Mediano</tamano>
+        <origen>Reino Unido</origen>
+        <descripcion>El Labrador Retriever es un perro muy popular debido a su naturaleza amistosa y su capacidad de adaptación.</descripcion>
+    </raza>
+    <raza nombre="Pastor Alemán">
+        <tamano>Grande</tamano>
+        <origen>Alemania</origen>
+        <descripcion>El Pastor Alemán es un perro inteligente y leal, que se utiliza frecuentemente en labores de vigilancia y seguridad.</descripcion>
+    </raza>
+    <raza nombre="Bulldog Francés">
+        <tamano>Pequeño</tamano>
+        <origen>Francia</origen>
+        <descripcion>El Bulldog Francés es un perro muy sociable y amigable, que se adapta bien a la vida en apartamentos y hogares pequeños.</descripcion>
+    </raza>
+</perros>
